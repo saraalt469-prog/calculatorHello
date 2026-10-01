@@ -17,17 +17,18 @@
     padding: 10px;
     border-radius: 20px;
     margin: 50px;
+    background-image: url("https://i.pinimg.com/736x/1f/de/a3/1fdea3653933fe7213e124d8d3513716.jpg");
 }
 .btn_wr{
     margin: 0 auto;
     max-width: 200px;
     display: grid;
 
-
 }
 .input{
     max-width: 138px;
     border: none;
+    margin: 5px 0;
 }
 .result{
     width: 138px;
