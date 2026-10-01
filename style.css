@@ -5,16 +5,18 @@
 }
 
 .btn_num{
-    background-color: gray;
+    background-color: rgb(255, 144, 181);
     border-radius: 5px;
     padding: 5px 10px;
 
 }
 .calculate-wr{
     max-width: 140px;
-    background-color: rgb(217, 212, 212);
+    background-color: rgb(255, 143, 210);
     margin: 0 auto;
     padding: 10px;
+    border-radius: 20px;
+    margin: 50px;
 }
 .btn_wr{
     margin: 0 auto;
@@ -30,11 +32,11 @@
 .result{
     width: 138px;
     height: 21px;
-    background-color: white;
+    background-color: rgb(234, 69, 163);
 }
 .btn_num-rovno{
 
-    background-color: gray;
+    background-color: rgb(243, 58, 206);
     border-radius: 5px;
     padding: 5px 63px;
     margin: 10px 0 0 0;
