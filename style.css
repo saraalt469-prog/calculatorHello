@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.btn_num{
+    background-color: gray;
+    border-radius: 5px;
+    padding: 5px 10px;
+
+}
+.calculate-wr{
+    max-width: 140px;
+    background-color: rgb(217, 212, 212);
+    margin: 0 auto;
+    padding: 10px;
+}
+.btn_wr{
+    margin: 0 auto;
+    max-width: 200px;
+    display: grid;
+
+
+}
+.input{
+    max-width: 138px;
+    border: none;
+}
+.result{
+    width: 138px;
+    height: 21px;
+    background-color: white;
+}
+.btn_num-rovno{
+
+    background-color: gray;
+    border-radius: 5px;
+    padding: 5px 63px;
+    margin: 10px 0 0 0;
+}
